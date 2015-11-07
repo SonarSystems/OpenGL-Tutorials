@@ -11,7 +11,7 @@
   <li>
     Coordindate System
     <ul>
-      <li>Video Tutorial - https://www.youtube.com/upload</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=gsf6fZhvLPM&feature=youtu.be</li>
     </ul>
   </li>
   <li>
