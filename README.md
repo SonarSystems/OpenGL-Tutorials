@@ -9,6 +9,13 @@
     </ul>
   </li>
   <li>
+    Visual Studio Setup With GLEW and GLFW
+    <ul>
+      <li>Video Tutorial - coming soon</li>
+      <li>Source Code - https://github.com/SonarSystems/OpenGL-Tutorials/tree/master/Empty%20Base%20Project</li>
+    </ul>
+  </li>
+  <li>
     Coordindate System
     <ul>
       <li>Video Tutorial - https://www.youtube.com/watch?v=gsf6fZhvLPM&feature=youtu.be</li>
