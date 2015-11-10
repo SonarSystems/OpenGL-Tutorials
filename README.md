@@ -22,7 +22,7 @@
     </ul>
   </li>
   <li>
-    Triangle
+    Drawing A Triangle
     <ul>
       <li>Video Tutorial - https://www.youtube.com/watch?v=6u1FkksyNCk</li>
       <li>Source Code - https://github.com/SonarSystems/OpenGL-Tutorials/tree/master/VBO%20Triangle</li>
