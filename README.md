@@ -22,9 +22,9 @@
     </ul>
   </li>
   <li>
-    VBO Triangle
+    Triangle
     <ul>
-      <li>Video Tutorial - coming soon</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=6u1FkksyNCk</li>
       <li>Source Code - https://github.com/SonarSystems/OpenGL-Tutorials/tree/master/VBO%20Triangle</li>
     </ul>
   </li>
