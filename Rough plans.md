@@ -1,36 +1,36 @@
 <h1>Disclaimer</h1>
 <h6>This is only a rough plan for future videos and it's in no particular order but feel free to ask for more information or suggest any tutorials you would like</h6>
 
-GL_POINTS
-GL_LINES
-GL_LINE_STRIP
-GL_LINE_LOOP
-GL_TRIANGLES
-GL_TRIANGLE_STRIP
-GL_TRIANGLE_FAN
-GL_QUADS
-GL_QUAD_STRIP
-GL_POLYGON
+GL_POINTS<br />
+GL_LINES<br />
+GL_LINE_STRIP<br />
+GL_LINE_LOOP<br />
+GL_TRIANGLES<br />
+GL_TRIANGLE_STRIP<br />
+GL_TRIANGLE_FAN<br />
+GL_QUADS<br />
+GL_QUAD_STRIP<br />
+GL_POLYGON<br />
 
-OpenGL Maths
+OpenGL Maths<br />
 
-Translation
-Rotation
-Scaling
+Translation<br />
+Rotation<br />
+Scaling<br />
 
-Orphographic vs Perspective projection
+Orphographic vs Perspective projection<br />
 
-Raycasting
+Raycasting<br />
 
-Anti-aliasing
+Anti-aliasing<br />
 
-Tesselation
+Tesselation<br />
 
-Height maps
+Height maps<br />
 
 
-Colouring
-Textures
+Colouring<br />
+Textures<br />
 
-Custom water system
-Model loader
+Custom water system<br />
+Model loader<br />
