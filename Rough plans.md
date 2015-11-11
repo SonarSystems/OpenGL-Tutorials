@@ -18,6 +18,19 @@ Scaling<br />
 
 Orphographic vs Perspective projection<br />
 
+Frame rate<br />
+
+GLFW input
+<ul>
+  <li>Mouse</li>
+  <li>Keyboard</li>
+  <li>Game pad</li>
+</ul>
+
+Particles<br />
+
+Collision<br />
+
 Raycasting<br />
 
 Anti-aliasing<br />
