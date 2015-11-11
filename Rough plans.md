@@ -5,10 +5,8 @@ GL_POINTS<br />
 GL_LINES<br />
 GL_LINE_STRIP<br />
 GL_LINE_LOOP<br />
-GL_TRIANGLES<br />
 GL_TRIANGLE_STRIP<br />
 GL_TRIANGLE_FAN<br />
-GL_QUADS<br />
 GL_QUAD_STRIP<br />
 GL_POLYGON<br />
 
