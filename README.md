@@ -28,7 +28,7 @@
   <li>
     Drawing A Quad
     <ul>
-      <li>Video Tutorial - coming soon</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=4qECwne-CD8</li>
     </ul>
   </li>
 <ol>
