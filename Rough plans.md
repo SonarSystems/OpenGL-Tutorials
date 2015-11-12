@@ -20,6 +20,8 @@ Orphographic vs Perspective projection<br />
 
 Frame rate<br />
 
+Wireframe<br />
+
 GLFW input
 <ul>
   <li>Mouse</li>
