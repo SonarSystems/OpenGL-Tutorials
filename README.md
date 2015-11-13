@@ -49,4 +49,11 @@
       <li>Video Tutorial - coming soon</li>
     </ul>
   </li>
+  
+  <li>
+    Drawing A Line Strip/Loop
+    <ul>
+      <li>Video Tutorial - coming soon</li>
+    </ul>
+  </li>
 <ol>
