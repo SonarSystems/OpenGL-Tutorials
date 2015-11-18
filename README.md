@@ -46,12 +46,33 @@
   <li>
     Drawing A Line
     <ul>
-      <li>Video Tutorial - coming soon</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=lwSiJIwc-Ngn</li>
     </ul>
   </li>
   
   <li>
     Drawing A Line Strip/Loop
+    <ul>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=xBiiimwbAAI</li>
+    </ul>
+  </li>
+  
+  <li>
+    Drawing A Polygon
+    <ul>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=OsemcM2cvzI</li>
+    </ul>
+  </li>
+  
+  <li>
+    Drawing A Triangle Strip
+    <ul>
+      <li>Video Tutorial - coming soon</li>
+    </ul>
+  </li>
+  
+  <li>
+    Drawing A Triangle Fan
     <ul>
       <li>Video Tutorial - coming soon</li>
     </ul>
