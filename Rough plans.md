@@ -1,12 +1,7 @@
 <h1>Disclaimer</h1>
 <h6>This is only a rough plan for future videos and it's in no particular order but feel free to ask for more information or suggest any tutorials you would like</h6>
 
-GL_POINTS<br />
-GL_LINES<br />
-GL_LINE_STRIP<br />
-GL_LINE_LOOP<br />
-GL_TRIANGLE_STRIP<br />
-GL_TRIANGLE_FAN<br />
+Draw A Circle With A Triangle Fan<br />
 GL_QUAD_STRIP<br />
 GL_POLYGON<br />
 
