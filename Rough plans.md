@@ -1,9 +1,14 @@
 <h1>Disclaimer</h1>
 <h6>This is only a rough plan for future videos and it's in no particular order but feel free to ask for more information or suggest any tutorials you would like</h6>
 
-Draw A Circle With A Triangle Fan<br />
+Drawing A Hollow Circle<br />
+
 GL_QUAD_STRIP<br />
-GL_POLYGON<br />
+
+Cube<br />
+
+Colour<br />
+Normals<br />
 
 OpenGL Maths<br />
 
@@ -39,10 +44,6 @@ Anti-aliasing<br />
 Tesselation<br />
 
 Height maps<br />
-
-
-Colouring<br />
-Textures<br />
 
 Custom water system<br />
 Model loader<br />
