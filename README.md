@@ -67,14 +67,14 @@
   <li>
     Drawing A Triangle Strip
     <ul>
-      <li>Video Tutorial - coming soon</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=Ut1VznJb00M</li>
     </ul>
   </li>
   
   <li>
     Drawing A Triangle Fan
     <ul>
-      <li>Video Tutorial - coming soon</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=AOVVD1-Ars4</li>
     </ul>
   </li>
 <ol>
