@@ -77,4 +77,18 @@
       <li>Video Tutorial - https://www.youtube.com/watch?v=AOVVD1-Ars4</li>
     </ul>
   </li>
+  
+  <li>
+    Drawing A Circle Using A Triangle Fan
+    <ul>
+      <li>Video Tutorial - coming soon</li>
+    </ul>
+  </li>
+  
+  <li>
+    Drawing A Hollow Circle
+    <ul>
+      <li>Video Tutorial - coming soon</li>
+    </ul>
+  </li>
 <ol>
