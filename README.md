@@ -81,7 +81,7 @@
   <li>
     Drawing A Circle Using A Triangle Fan
     <ul>
-      <li>Video Tutorial - coming soon</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=YDCSKlFqpaU</li>
     </ul>
   </li>
   
