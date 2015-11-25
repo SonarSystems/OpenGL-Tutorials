@@ -88,6 +88,34 @@
   <li>
     Drawing A Hollow Circle
     <ul>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=ccvebHuZOHM</li>
+    </ul>
+  </li>
+  
+  <li>
+    Drawing A Quad Strip
+    <ul>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=C2eLr4GxouE</li>
+    </ul>
+  </li>
+  
+  <li>
+    Fix For Retina & Scaled Displays
+    <ul>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=E-Yfwyqi5Uo</li>
+    </ul>
+  </li>
+  
+  <li>
+    Keyboard Input
+    <ul>
+      <li>Video Tutorial - coming soon</li>
+    </ul>
+  </li>
+  
+  <li>
+    Text/Character Input
+    <ul>
       <li>Video Tutorial - coming soon</li>
     </ul>
   </li>
