@@ -109,14 +109,14 @@
   <li>
     Keyboard Input
     <ul>
-      <li>Video Tutorial - coming soon</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=L2aiuDDFNIk</li>
     </ul>
   </li>
   
   <li>
     Text/Character Input
     <ul>
-      <li>Video Tutorial - coming soon</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=ZrL6qUNvKwk</li>
     </ul>
   </li>
 <ol>
