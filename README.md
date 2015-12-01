@@ -4,21 +4,21 @@
   <li>
     Xcode Setup With GLEW and GLFW
     <ul>
-      <li>Video Tutorial - https://www.youtube.com/watch?v=4zjCqjfjcPs&index=1&list=PLRtjMdoYXLf4yTkXgyRBy5LXTFhdU7LWq</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=4zjCqjfjcPs</li>
     </ul>
   </li>
   
   <li>
     Visual Studio Setup With GLEW and GLFW
     <ul>
-      <li>Video Tutorial - https://www.youtube.com/watch?v=vGptI11wRxE&list=PLRtjMdoYXLf4yTkXgyRBy5LXTFhdU7LWq&index=3</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=vGptI11wRxE</li>
     </ul>
   </li>
   
   <li>
     Coordindate System
     <ul>
-      <li>Video Tutorial - https://www.youtube.com/watch?v=gsf6fZhvLPM&feature=youtu.be</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=gsf6fZhvLPM</li>
     </ul>
   </li>
   
@@ -39,7 +39,7 @@
   <li>
     Drawing A Point
     <ul>
-      <li>Video Tutorial - https://www.youtube.com/watch?v=cgk8iVrcTJM&feature=youtu.be</li>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=cgk8iVrcTJM</li>
     </ul>
   </li>
   
