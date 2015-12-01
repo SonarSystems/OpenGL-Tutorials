@@ -46,4 +46,5 @@ Height maps<br />
 Custom water system<br />
 Model loader<br />
 
-Ping pong game tutorial in OpenGL/GLHelper<br />    
+Ping pong game tutorial in OpenGL/GLHelper<br />   
+OpenGL Solar System<br />
