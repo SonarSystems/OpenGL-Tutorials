@@ -47,4 +47,4 @@ Custom water system<br />
 Model loader<br />
 
 Ping pong game tutorial in OpenGL/GLHelper<br />   
-OpenGL Solar System<br />
+OpenGL Solar System with realistic/variable day cycle<br />
