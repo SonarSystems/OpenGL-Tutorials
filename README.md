@@ -119,4 +119,25 @@
       <li>Video Tutorial - https://www.youtube.com/watch?v=ZrL6qUNvKwk</li>
     </ul>
   </li>
+  
+  <li>
+    Mouse Input
+    <ul>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=EE5cS8EMT78</li>
+    </ul>
+  </li>
+  
+  <li>
+    Joystick/Gamepad Input
+    <ul>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=mx0IUbxAQ34</li>
+    </ul>
+  </li>
+  
+  <li>
+    Time Input
+    <ul>
+      <li>Video Tutorial - coming soon
+    </ul>
+  </li>
 <ol>
