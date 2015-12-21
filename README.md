@@ -137,6 +137,20 @@
   <li>
     Time Input
     <ul>
+      <li>Video Tutorial - https://www.youtube.com/watch?v=2QD7GTEUTow
+    </ul>
+  </li>
+  
+  <li>
+    Clipboard Input & Output
+    <ul>
+      <li>Video Tutorial - coming soon
+    </ul>
+  </li>
+  
+  <li>
+    Path Drop Input
+    <ul>
       <li>Video Tutorial - coming soon
     </ul>
   </li>
