@@ -144,14 +144,14 @@
   <li>
     Clipboard Input & Output
     <ul>
-      <li>Video Tutorial - coming soon
+      <li>Video Tutorial - https://www.youtube.com/watch?v=vqDL2jIdllU
     </ul>
   </li>
   
   <li>
     Path Drop Input
     <ul>
-      <li>Video Tutorial - coming soon
+      <li>Video Tutorial - https://www.youtube.com/watch?v=kEkjlL_U6hI
     </ul>
   </li>
 <ol>
