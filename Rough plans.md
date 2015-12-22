@@ -4,6 +4,7 @@
 Cube<br />
 
 Colour<br />
+Texturing using SOIL<br />
 Normals<br />
 
 OpenGL Maths<br />
@@ -23,6 +24,8 @@ GLFW Prevent Resizing
 Lighting<br />
 
 Skybox<br />
+
+Text<br />
 
 Particles<br />
 
