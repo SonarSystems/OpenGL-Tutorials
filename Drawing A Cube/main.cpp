@@ -76,9 +76,7 @@ int main( void )
         // Poll for and process events
         glfwPollEvents( );
     }
-    
-    glDisable( GL_DEPTH_TEST );
-    
+        
     glfwTerminate( );
     
     return 0;
