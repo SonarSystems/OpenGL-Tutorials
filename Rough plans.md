@@ -2,14 +2,16 @@
 <h6>This is only a rough plan for future videos and it's in no particular order but feel free to ask for more information or suggest any tutorials you would like</h6>
 
 Colour<br />
-Texturing using SOIL<br />
-Normals<br />
 
 OpenGL Maths<br />
 
 Translation<br />
 Rotation<br />
 Scaling<br />
+
+
+Texturing using SOIL<br />
+Normals<br />
 
 Orphographic vs Perspective projection<br />
 
