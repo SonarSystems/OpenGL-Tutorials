@@ -47,11 +47,11 @@ int main( void )
     
     GLfloat vertices[] =
     {
-        halfScreenWidth, halfScreenHeight + halfSideLength, 0.0, // top right corner
+        halfScreenWidth, halfScreenHeight + halfSideLength, 0.0, // top center vertex
         halfScreenWidth - halfSideLength, halfScreenHeight - halfSideLength, 0.0, // bottom left corner
         halfScreenWidth + halfSideLength, halfScreenHeight - halfSideLength, 0.0 // bottom right corner
     };
-
+    
     GLfloat colour[] =
     {
         255, 0, 0,
